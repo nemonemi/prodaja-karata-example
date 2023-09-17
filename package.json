@@ -1,0 +1,14 @@
+{
+  "name": "prodaja-karata",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@testing-library/cypress": "^10.0.1",
+    "cypress": "^13.2.0",
+    "typescript": "^5.2.2"
+  },
+  "volta": {
+    "node": "18.17.1"
+  }
+}
